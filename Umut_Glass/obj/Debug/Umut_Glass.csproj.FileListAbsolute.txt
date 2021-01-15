@@ -60,3 +60,6 @@ C:\Source\UmutWindows\Umut_Glass\obj\Debug\RdlCompile.compiled
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.csproj.CopyComplete
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.exe
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.pdb
+C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.csproj.CoreCompileInputs.cache
+C:\Source\UmutWindows\Umut_Glass\bin\Debug\Print\Invoice2.rdlc
+C:\Source\UmutWindows\Umut_Glass\bin\Debug\Print\Invoice3.rdlc

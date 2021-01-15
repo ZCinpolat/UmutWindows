@@ -133,7 +133,7 @@ namespace Umut_Glass
                     ds.Tables[1].Rows.Add(drDetail);
                 }
 
-                frm_Print_Preview f_Prnt = new frm_Print_Preview("Invoice.rdlc", "Invoice", ds);
+                frm_Print_Preview f_Prnt = new frm_Print_Preview("Invoice3.rdlc", "Invoice", ds);
                 f_Prnt.ShowDialog();
             }
             catch(Exception ex)
