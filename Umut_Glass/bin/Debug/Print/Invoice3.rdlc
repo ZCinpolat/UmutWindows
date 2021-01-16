@@ -692,10 +692,20 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>UMUT WINDOWS LTD</Value>
+                  <Value>UMUT WINDOWS </Value>
                   <Style>
                     <FontFamily>Arial Narrow</FontFamily>
                     <FontSize>26pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                    <TextDecoration>None</TextDecoration>
+                    <Color>#079ee4</Color>
+                  </Style>
+                </TextRun>
+                <TextRun>
+                  <Value>LTD</Value>
+                  <Style>
+                    <FontFamily>Arial Narrow</FontFamily>
+                    <FontSize>14pt</FontSize>
                     <FontWeight>Bold</FontWeight>
                     <TextDecoration>None</TextDecoration>
                     <Color>#079ee4</Color>

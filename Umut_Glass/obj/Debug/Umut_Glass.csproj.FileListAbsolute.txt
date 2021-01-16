@@ -49,7 +49,6 @@ C:\Source\UmutWindows\Umut_Glass\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Source\UmutWindows\Umut_Glass\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
 C:\Source\UmutWindows\Umut_Glass\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
 C:\Source\UmutWindows\Umut_Glass\bin\Debug\Microsoft.SqlServer.Types.dll
-C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.csprojAssemblyReference.cache
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.Form1.resources
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.frm_Print_Preview.resources
 C:\Source\UmutWindows\Umut_Glass\obj\Debug\Umut_Glass.Properties.Resources.resources
