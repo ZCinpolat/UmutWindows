@@ -748,7 +748,7 @@
             <Paragraph>
               <TextRuns>
                 <TextRun>
-                  <Value>Addres: </Value>
+                  <Value>Address: </Value>
                   <Style>
                     <FontFamily>Arial Narrow</FontFamily>
                     <FontSize>12pt</FontSize>
